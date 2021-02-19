@@ -68,6 +68,7 @@
   )
 )
 
+
 ; purpose:  search a data structure for an element and return a list that contains 
 ;           $ every time next is called
 ; input:    a data structure, an element to search for, a function to get 
@@ -99,7 +100,6 @@
 (define (list-search-ec list e)
   (search-ec list e car second_empty equal? cdr_second)
 )
-
 
 ; call to search a bst
 (define (bst-search bst e)
