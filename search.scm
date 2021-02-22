@@ -1,4 +1,3 @@
-
 (define usd '$)
 (define nil '())
 (define sorted-list '(2 6 10 14 55 65 78 99 102))
