@@ -1,6 +1,3 @@
-; This is my code
-; Jacob Greenberg
-; CS451 asn3
 
 (define usd '$)
 (define nil '())
